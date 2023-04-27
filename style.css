@@ -1,0 +1,242 @@
+.container{
+    margin-left: 40px;
+    
+}
+.main-body{
+    font-family: "proxima-nova", sans-serif;
+
+}
+
+ul {
+    list-style: none;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    background: rgb(0, 102, 167)
+}
+body{
+    margin: 0px;
+}
+.left-section{
+    width: 675px;
+    height: 469px;
+    background-color: #fff;
+    float: left;
+}
+.bottom{
+    width: 100%;
+    height: 200px;
+    background-color: #fff ;
+    float: left; 
+    margin-top: -3px;  
+}
+.pizza{
+width: 674px;
+height: 350px;
+float: right;
+cursor: pointer;
+}
+.howzzat{
+    width:674px;
+    margin-top: 9px;
+    height: 107px;
+    cursor: pointer;
+    float: right;
+}
+
+.bike{
+    width: 100%;
+    float: left;
+    margin-top: 24px;
+
+}
+.avatar{
+    float: right;
+margin-right: 14px;
+height: 24px;
+margin-top: 9px;
+cursor: pointer;
+}
+
+.logo{
+    height: 43px;
+    margin-top: 68px;
+    margin-left: 67px;
+  }
+.font-main{
+    font-family: "proxima-nova", sans-serif;
+    margin-left: 67px;
+    color: rgb(106, 103, 110);
+    line-height: 25px;
+font-size: 17px;
+display: block;
+margin-top: 10px;
+
+}
+.myacnt{
+    cursor: pointer;
+color: rgb(255, 255, 255);
+font-family: "proxima-nova", sans-serif;
+float: right;
+font-size: 10px;
+padding-right: 49px;
+padding-top: 8px;
+font-weight: bold;
+
+}
+.login{
+    color: rgb(85, 204, 246);
+    float: right;
+    font-family: "proxima-nova", sans-serif;
+    font-size: 9px;
+padding-top: 22px;
+margin-right: -60px;
+cursor: pointer;
+}
+.bar{
+    color: rgb(85, 204, 246);
+    float: right;
+    margin-right: 15px;
+    font-size: 30px;
+font-weight: lighter;
+}
+.radio{
+    color: rgb(0, 102, 167);
+    font-weight: 600;
+    margin-left: 67px;
+    margin-top: 30px;
+    font-family: "proxima-nova", sans-serif;
+}
+.text{
+    color: rgb(0, 102, 167);
+    font-weight: 600;
+    margin-top: 30px;
+    font-family: "proxima-nova", sans-serif;
+    font-size: small;
+
+}
+.radio2{
+    color: rgb(0, 102, 167);
+    font-weight: 600;
+    font-family: "proxima-nova", sans-serif;
+    
+}
+.search{
+    width: 68%;
+    height: 38px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-right: 67px;
+    margin-top: 20px;
+    color: rgb(85, 204, 246);
+    float: right;
+    margin-right: 138px;
+    border: 1px solid rgb(182, 223, 238);
+    position: relative;
+
+}
+.locate-btn{
+    background-color: rgb(0, 171, 0);
+    cursor: pointer;
+color: rgb(255, 255, 255);
+margin-left: 420px;
+margin-top: 26px;
+position: absolute;
+height: 30px;
+border-radius: 5px;
+padding-left: 28px;
+}
+.locate-icon{
+    margin-left: 425px;
+margin-top: 31px;
+position: absolute;
+height: 20px;
+
+}
+
+.ping{
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 84px;
+height: 21px;
+}
+
+.ofr{
+    color: rgb(95, 136, 163);
+font-weight: 600;
+margin-left: 90px;
+margin-top: 25px;
+position: absolute;
+
+}
+
+.ofr-pic{
+    position: absolute;
+    margin-left: 90px;
+    height: 90px;
+margin-top: 60px;
+border: 0.7px dotted rgb(151, 151, 151);
+cursor: pointer;
+width: 165px;
+}
+
+.scnd-btm{
+    width: 100%;
+height: 150px;
+   background-color: rgb(34, 46, 58);
+   float: left;
+}
+
+.wlogo{
+    margin-left: 40px;
+    margin-top:40px;
+    height: 36px;
+}
+.scnd-btm ul{
+    display: flex;
+    text-decoration: none;
+    color: rgb(95, 136, 163);
+    margin-top: 20px;
+margin-left: -30px;
+font-size: small;
+}
+
+.scnd-btm a{
+    padding: 5px 20px;
+    color: rgb(131, 154, 177);
+    font-size: 1rem;
+}
+.scnd-btm div img{
+    padding: 0px 15px;
+    float: right;   
+    height: 30px;
+}
+.scnd-btm div{
+    margin-right: 120px; 
+    margin-top: -40px;
+}
+.scnd-btm span{
+    float: right;
+    color:rgb(131, 154, 177) ;
+    margin-top: -40px;
+margin-right: 115px;
+}
+    .footer{
+        width: 100%;   
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        background: rgb(26, 39, 53);
+color: rgb(92, 111, 131);  
+ float: left;
+ font-family: "proxima-nova", sans-serif;
+ border-top: 1px dotted rgb(82, 98, 116);
+ 
+font-size: small;
+}
+
+.footer span{
+    margin-top: 15px;
+}
